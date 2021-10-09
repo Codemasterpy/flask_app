@@ -1,1 +1,1 @@
-web: python server.py
+web: --enable_nbextensions=True python server.py
